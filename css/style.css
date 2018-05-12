@@ -1,0 +1,40 @@
+body {
+  font-size: 14px;
+}
+
+nav {
+  background-color: ffff00;
+  height: 100px;
+  margin-top: -10px;
+  position: fixed;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  width: 60%;
+}
+
+/**** content ****/
+
+h1 {
+  font-family: sans-serif;
+  font-size: 2em;
+}
+
+.example, h3 {
+  padding-top: 30px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1.3em;
+}
+
+.element {
+  background-color: 00ff00;
+  height: 100px;
+  margin: 10px;
+  width: 100%;
+}
+.color{background-color: pink;}
